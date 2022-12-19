@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alphonse.
-- 👀 I’m interested in ... learning how to creat a game and work in real life
+- 👀 I’m interested in ... creating games and making software in the real world
 - 🌱 I’m currently learning ... In computer science to be a software developer
 - 💞️ I’m looking to collaborate with everyone and make some new friends as well.
 - 📫 How to reach me ... banana_fish20  for snapchat.
