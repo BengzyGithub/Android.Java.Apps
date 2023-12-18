@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alphonse.
 - 👀 I’m interested in bringing innovative ideas and using my skills to create meaningful software in the real world
-- 🌱 current computer science graduate  
+- 🌱 computer science graduate  
 - 💞️ I’m looking to collaborate with recruiters and find opportunities out there.
 
 <!---
