@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Alphonse.
-- 👀 I’m interested in bringing innovative ideas and using my skills to create meaningful software in the real world
-- 🌱 computer science graduate  
-- 💞️ I’m looking to collaborate with recruiters and find opportunities out there.
+*✨Thank you for visiting ✨
+
+For an extensive view on each project, please follow the link bellow to view the project and its technical details.
+
+#https://alphonselemnsernyu.wixsite.com/my-portfolio-project
 
 <!---
 BengzyGithub/BengzyGithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
